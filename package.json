@@ -4,7 +4,7 @@
   "private": false,
   "main": "index.js",
   "dependencies": {
-    "minimatch": "3.0.2",
+    "minimatch": "^10.2.3",
     "mpath": "0.7.0"
   }
 }
