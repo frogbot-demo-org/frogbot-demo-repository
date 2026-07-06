@@ -1,0 +1,10 @@
+{
+  "name": "frogbot-demo-repository",
+  "version": "1.0.0",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "minimatch": "3.0.2",
+    "mpath": "0.7.0"
+  }
+}
